@@ -8,7 +8,7 @@ TicTacToe with random bot
 $ g++ TicTacToe.cpp -o TicTacToe && ./TicTacToe
 ```
 
-###Output:
+### Output:
 ``` Console 
 Tic Tac Toe with Random Bot!
 
